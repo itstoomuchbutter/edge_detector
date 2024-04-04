@@ -478,8 +478,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "v3/",
-      "pos_files": "v3/",
+      "plot": "v4/",
+      "pos_files": "v4/",
       "specctra_dsn": "edge_detector.dsn",
       "step": "",
       "svg": "",
@@ -531,7 +531,7 @@
           "group_by": false,
           "label": "Do Not Place",
           "name": "${DNP}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
